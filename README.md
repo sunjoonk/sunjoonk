@@ -1,1 +1,1 @@
-# Hi! I'm Sunjoon Kim working as a Annotaion Quality Manager.👋
+# Hi! I'm Sunjoon Kim.👋
