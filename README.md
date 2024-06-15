@@ -1,1 +1,1 @@
-# Hi! I'm Machine Learning Engineer 👋
+# Hi! I'm Sunjoon Kim working as a Annotaion Quality Manager.👋
