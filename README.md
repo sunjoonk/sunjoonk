@@ -1,7 +1,5 @@
 # 안녕하세요! AI의 이론과 구현, 그리고 서비스화를 연결하는 엔지니어입니다. 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[YOUR_GITHUB_USERNAME]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br>
 
 저는 딥러닝 논문의 핵심 아이디어를 직접 구현하고(Transformer, ViT, SAM2 등), 실제 서비스로 만들어내는 End-to-End 개발 경험을 보유한 AI 엔지니어입니다.
