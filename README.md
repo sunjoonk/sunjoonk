@@ -57,14 +57,6 @@
 - `Segment Anything Model (SAM2)`: Promptable Segmentation 아키텍처 리뷰
 - `2-Stage Detector (e.g., Faster R-CNN)`: RPN, RoI Align 구현
 
-### 3. 커스텀 객체 탐지 모델 (YOLO)
-> YOLO 모델을 활용하여 특정 도메인의 객체 탐지 모델을 학습 및 구현
-> 
-- **[Use Case]** `YOLOv11` 기반 친구 얼굴 인식
-- **[Data]** LabelMe(JSON) 형식의 어노테이션 데이터를 `YOLO(.txt)` 포맷으로 변환하는 전처리 파이프라인을 구축했습니다.
-
-<br>
-
 ## 🏆 Activities & Competitions
 
 - 퀀텀 AI 경진대회
