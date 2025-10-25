@@ -31,7 +31,6 @@
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/Chroma-5B23EC?style=for-the-badge&logo=chroma&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4B309A?style=for-the-badge&logo=facebook&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
