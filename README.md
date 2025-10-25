@@ -63,8 +63,6 @@
 - AI 신약 개발 경진 대회
 - 동원 X 카이스트 AI Competition
 
-<br>
-
 ## 📫 Contact
 
 - **Email:** `sunjoon.dev@gmail.com`
