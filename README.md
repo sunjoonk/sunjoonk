@@ -75,6 +75,5 @@
 
 ## 📫 Contact
 
-- **Email:** `your-email@gmail.com`
-- **Blog:** `https://your-blog.io`
-- **Portfolio:** `https://[YOUR_GITHUB_USERNAME].github.io`
+- **Email:** `sunjoon.dev@gmail.com`
+- **Portfolio:** `https://sunjoonk.github.io`
