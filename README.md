@@ -53,7 +53,6 @@
 - `Transformer`: Multi-Head Attention, Encoder-Decoder 구조 구현
 - `Vision Transformer (ViT)`: Patch Embedding, Transformer Encoder 구현
 - `YOLO (v8, v11)`: C2f 모듈, PANet 구조 등 리뷰
-- `Segment Anything Model (SAM2)`: Promptable Segmentation 아키텍처 리뷰
 - `2-Stage Detector (e.g., Faster R-CNN)`: RPN, RoI Align 구현
 
 ## 🏆 Activities & Competitions
