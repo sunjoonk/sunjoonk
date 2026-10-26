@@ -38,29 +38,6 @@
 
 <br>
 
-## 🚀 Key Projects
-
-### 1. LawAI: 법률 도메인 특화 RAG 서비스
-> 법률 문서(판례, 법령)를 기반으로 정확한 답변을 제공하는 AI 서비스
-> 
-- **[RAG]** `Llama3` 기반, `Langchain`과 `Langgraph`를 활용한 **모듈형 RAG(Modular RAG)** 아키텍처를 기획하고 구현하여 복잡한 질의에 대한 답변 성능을 고도화했습니다.
-- **[Infra]** `FastAPI`로 모델 서빙 API를 구축하고 `Docker`, `AWS EC2` 환경에 배포하여 서비스 운영 경험을 쌓았습니다.
-- **[DB]** `ChromaDB`와 `FAISS`를 활용하여 법률 문서 임베딩 및 벡터 검색 시스템을 구축했습니다.
-
-### 2. AI 딥러닝 논문 리뷰 및 구현
-> 주요 AI 논문의 핵심 아키텍처를 리뷰하고 PyTorch/TensorFlow로 직접 구현
-> 
-- `Transformer`: Multi-Head Attention, Encoder-Decoder 구조 구현
-- `Vision Transformer (ViT)`: Patch Embedding, Transformer Encoder 구현
-- `YOLO (v8, v11)`: C2f 모듈, PANet 구조 등 리뷰
-- `2-Stage Detector (e.g., Faster R-CNN)`: RPN, RoI Align 구현
-
-## 🏆 Activities & Competitions
-
-- 퀀텀 AI 경진대회
-- AI 신약 개발 경진 대회
-- 동원 X 카이스트 AI Competition
-
 ## 📫 Contact
 
 - **Email:** `sunjoon.dev@gmail.com`
